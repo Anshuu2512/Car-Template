@@ -1,0 +1,280 @@
+*
+{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+    scroll-behavior: smooth;
+}
+@media(min-width:1023px){
+    .main
+    {
+        height: 580px;
+        width: 100%;
+        background-color: rgb(217, 233, 237);
+       
+    }
+
+   .bodypart {
+    float: left;
+    height: 400px;
+    width: 500px;
+     /* border: 2px solid red;  */
+    margin-left: 150px;
+    padding: 30px 20px;
+    
+   }
+
+   .bodypart i{
+     font-size: 30px;
+   }
+   .section1 h4 i {
+    font-size:30px ;
+   }
+  .section1{
+    padding: 30px 20px;
+  }
+  .section1 h4{
+    font-size: 20px;
+  }
+  .bujji button:hover
+  {
+    transform: scale(1.1);
+    background-color:brown;
+    color: white;
+  }
+
+   }
+   .bodypart p{
+    font-style: italic;
+   }
+ .sujju{
+  font-style: italic;
+ }
+ h1{
+  padding-top: 20px;
+ }
+ .middle img{
+  float: left;
+  height: 300px;
+  width: 20%;
+  border:2px  solid black;
+  margin-left: 60px;
+ }
+ .nani button{
+    margin-top: 20px;
+    margin-left: 710px;
+    padding: 8px 20px;
+ }
+.nani button:hover{
+  transform: scale(1.1);
+  background-color: magenta;
+}
+.vinnu{
+  background-color: rgb(211, 234, 234);
+  height: 560px;
+  width: 100%;
+  margin-top: 30px;
+}
+.krianvi {
+  padding: 70px 40px 40px 100px;
+}
+.krianvi h2{
+  margin-bottom: 20px;
+}
+.krianvi p{
+  margin-bottom: 20px;
+}
+.a{
+  float: left;
+  margin-left: 80px;
+  padding: 20px 10px 20px 20px;
+}
+.a h3{
+  margin-bottom: 40px;
+}
+.a h4{
+  margin-bottom: 40px;
+}
+.amma img{
+  margin-left: 180px;
+  margin-bottom: 800px;
+}
+.krianvi{
+  float: left;
+}
+.amma img{
+  margin-top: 80px;
+  height: 445px;
+  width: 45%;
+  margin-left: 50px;
+}
+
+.mini{
+  background-color: #656561;
+  width: 43%;
+  height: 50px;
+  float: left;
+  margin-left: 50px;
+  font-size: x-large;
+  padding-left: 80px;
+  padding-top: 10px;
+  /* border: 2px solid red ;  */
+  margin-top: 20px;
+}
+.subpart iframe{
+  margin-left: 50px;
+
+}
+.min{
+  margin-left: 320px;
+  /* border: 2px solid red ;  */
+  width: 48%;
+  height: 50px;
+  padding-left: 80px;
+  padding-top: 10px;
+  background-color: #656561;
+  font-size: x-large;
+  margin-top: 20px;
+}
+.section4{
+  float: left;
+}
+.final{
+  margin-left: 700px;
+  /* border: 2px solid red; */
+  height: 500px;
+}
+.s h1{
+  margin-left: 200px;
+  font-family: sans-serif;
+  font-size: xx-large;
+}
+.s p{
+  margin-left: 140px;
+  font-family:cursive;
+}
+.chinnu1{
+  float: left; 
+  margin-top:90px;
+  margin-left: 100px;
+  background-color: #656561;
+  width: 30%;
+  /* border: 2px solid red; */
+  height: 50px;
+  padding-left: 90px;
+  padding-top: 10px;
+  color: white;
+  font-size: large;
+} 
+.chinnu2{
+  margin-left: 400px;
+  /* border: 2px solid red; */
+  margin-top: 90px;
+  width: 30%;
+  height: 50px;
+  padding-left: 100px;
+  padding-top: 10px;
+  background-color: #656561;
+  color: white;
+  font-size: large;
+}
+.chinnu3{
+  margin-left: 100px;
+  /* border: 2px solid red; */
+  width: 30%;
+  height: 50px;
+  background-color: #656561;
+  margin-top: 20px;
+  color: white;
+  font-size: large;
+  padding-left: 85px;
+  padding-top: 10px;
+  float: left;
+}
+.chinnu4{
+  /* border: 2px solid red; */
+  margin-left: 400px;
+  width: 30%;
+  height: 50px;
+  margin-top: 20px;
+  background-color: #656561;
+  color: white;
+  font-size: large;
+  padding-left: 85px;
+  padding-top: 10px;
+}
+
+.finally{
+  float: left;
+   margin-left: 125px;
+   padding-top: 25px;
+   color: white;
+}
+.finally i{
+  font-size: 40px;
+/* border:2px solid red ; */
+
+
+}
+.finally span,p{
+  font-size: 20px;
+  margin-left: 10px;
+}
+.king{
+  margin-left: 10px;
+}
+.pri{
+  /* border: 2px solid red; */
+  margin-left: 45px;
+  margin-top: -45px;
+}
+.connect{
+  float: left;
+  margin-left: 150px;
+  padding-top: 30px;
+
+}
+.im{
+  background-color: rgba(0, 0, 0, 0.875);
+  /* border: 2px solid red; */
+  height: 400px;
+  color: white;
+}
+.mi{
+  font-size: 30px;
+
+  margin-left: 10px;
+}
+.last{
+  text-align: center;
+  /* border: 2px solid red; */
+  background-color: rgba(0, 0, 0, 0.875);
+  color: white;
+
+
+}
+.last p{
+  font-size: 15px;
+
+}
+.lol{
+  color: rgb(69, 69, 218);
+
+}
+.my{
+  color: red;
+}
+.dad{
+ background-image: linear-gradient(yellow ,rgb(170, 11, 135),blue);
+}
+.juu{
+  color: rgb(8, 8, 195);
+}
+
+
+
+
+
+
+
+
